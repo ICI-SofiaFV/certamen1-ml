@@ -18,3 +18,4 @@ Una aseguradora decide a qué clientes llamar para vender un seguro de vehículo
 | `predicciones_test.csv` | Respuesta real y probabilidades del test (escala real) |
 | `requirements.txt` | Librerías necesarias |
 | `.streamlit/config.toml` | Colores del dashboard |
+| `Certamen1_Grupo_15.ipynb` | Notebook completo (Colab): pipeline, 10 modelos, costos y umbral |
