@@ -1,7 +1,7 @@
 # 🚗 Certamen 1 · Machine Learning · Grupo 15
 **Ensambles, costo de clasificación y umbral óptimo**
-
-🔗 **Dashboard en vivo:** https://certamen1-grupo15.streamlit.app
+**Integrantes:** Felipe Alonso, Sofía Fariña y Vicente Lagunas
+🔗 **Dashboard:** https://certamen1-grupo15.streamlit.app
 
 ## ¿Qué hace?
 Una aseguradora decide a qué clientes llamar para vender un seguro de vehículo. El dashboard muestra cuánto dinero cuesta cada error del modelo (Random Forest) y cuál es el umbral de decisión que minimiza el costo total.
