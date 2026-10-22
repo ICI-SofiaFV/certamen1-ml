@@ -1,7 +1,19 @@
-   [theme]
-   base = "light"
-   primaryColor = "#1F3A5F"
-   backgroundColor = "#FFFFFF"
-   secondaryBackgroundColor = "#F2F5F9"
-   textColor = "#1B2430"
-   font = "sans serif"
+[theme]
+base = "light"
+primaryColor = "#E8893A"
+backgroundColor = "#F4F2EC"
+secondaryBackgroundColor = "#ECE7DA"
+textColor = "#1E2E4E"
+borderColor = "#E3DED1"
+font = "Open Sans:https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap, sans-serif"
+headingFont = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap, sans-serif"
+baseFontSize = 17
+baseRadius = "medium"
+chartCategoricalColors = ["#1E2E4E", "#E8893A", "#2E3F9E", "#C8414B", "#2E8B57"]
+
+[theme.sidebar]
+backgroundColor = "#14213D"
+secondaryBackgroundColor = "#22325A"
+textColor = "#F3F5FA"
+primaryColor = "#E8893A"
+borderColor = "#34456E"
