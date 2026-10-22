@@ -1,6 +1,9 @@
 # 🚗 Certamen 1 · Machine Learning · Grupo 15
+
 **Ensambles, costo de clasificación y umbral óptimo**
+
 **Integrantes:** Felipe Alonso, Sofía Fariña y Vicente Lagunas
+
 🔗 **Dashboard:** https://certamen1-grupo15.streamlit.app
 
 ## ¿Qué hace?
